@@ -1,0 +1,13 @@
+[
+  {
+    "supportedVersions": ">=2.2.2",
+    "downloads": {
+      "Modloader64": {
+        "any": "/QuestPatcher/QuestLoader/libmodloader64.so"
+      },
+      "Main64": {
+        "any": "~/QuestPatcher/QuestLoader/libmain64.so"
+      }
+    }
+  }
+]
